@@ -9,3 +9,4 @@ O site utilizado para o scraping foi https://www.vivareal.com.br/
 # Dataset
 
 O dataset pronto pós scraping pode ser encontrado abaixo.
+https://github.com/Aelsonlalves/imoveis-br/blob/main/Data/imoveis_brasil.csv
